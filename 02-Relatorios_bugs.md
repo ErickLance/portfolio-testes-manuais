@@ -24,3 +24,5 @@
 
 **Evidência:** ![Evidencia 01 - Campo "Username"](../OrangeHRM/assets/01-campo-Login-Com-Sinalizacao.jpg)
 ![Evidencia 02 - Botão "Login" sem uma sinalização apropriada](../OrangeHRM/assets/02-Botao-Login-Sem-Sinalizacao.png)
+
+---
