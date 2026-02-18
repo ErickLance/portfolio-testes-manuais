@@ -1,4 +1,4 @@
----
+# 🧪 Casos de Teste: Módulo de Cadastro de colaborador
 
 ## 2. Testes Funcionais (Módulo PIM - Gestão de Funcionários)
 > **Objetivo:** Validar o cadastro e gerenciamento de colaboradores. Esses dados são pré-requisitos para a criação de usuários no módulo Admin.
